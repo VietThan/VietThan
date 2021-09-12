@@ -1,4 +1,6 @@
 # Hi there 👋
+Check out my [blog](https://vietthan.github.io/)!
+
 You can find my StackOverflow account [here][2].
 
 ![GitHub Stats][1]
